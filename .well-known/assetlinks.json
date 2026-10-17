@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.ankibridge",
+      "sha256_cert_fingerprints": [
+        "F2:F3:E4:12:CA:9A:FE:E1:53:D1:33:18:61:A6:B7:73:4E:4C:26:44:5F:58:27:C5:91:69:CF:3C:B8:CE:A1:5A"
+      ]
+    }
+  }
+]
